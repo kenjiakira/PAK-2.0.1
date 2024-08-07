@@ -1,0 +1,16 @@
+[
+  { "id": 1, "name": "CPCN", "fullName": "Cổ Phiếu Công Nghệ", "risk": 0.7, "return": 3 },
+  { "id": 2, "name": "BDS", "fullName": "Bất Động Sản", "risk": 0.5, "return": 2 },
+  { "id": 3, "name": "KNG", "fullName": "Khởi Nghiệp", "risk": 0.9, "return": 5 },
+  { "id": 4, "name": "VAG", "fullName": "Vàng", "risk": 0.3, "return": 1.5 },
+  { "id": 5, "name": "TPCP", "fullName": "Trái Phiếu Chính Phủ", "risk": 0.2, "return": 1.2 },
+  { "id": 6, "name": "TPDN", "fullName": "Trái Phiếu Doanh Nghiệp", "risk": 0.4, "return": 1.8 },
+  { "id": 7, "name": "QĐT", "fullName": "Quỹ Đầu Tư", "risk": 0.6, "return": 2.5 },
+{ "id": 8, "name": "CPNG", "fullName": "Cổ Phiếu Ngân Hàng", "risk": 0.6, "return": 2.2 },
+  { "id": 9, "name": "CPY", "fullName": "Cổ Phiếu Y Tế", "risk": 0.5, "return": 2.8 },
+  { "id": 10, "name": "CPVT", "fullName": "Cổ Phiếu Vật Tư", "risk": 0.4, "return": 1.9 },
+  { "id": 11, "name": "CF", "fullName": "Chứng Khoán Hàng Hóa", "risk": 0.7, "return": 3.1 },
+  { "id": 12, "name": "NFT", "fullName": "Chứng Khoán NFT", "risk": 0.8, "return": 4.0 },
+  { "id": 13, "name": "ETC", "fullName": "Chứng Khoán Tiền Điện Tử", "risk": 0.9, "return": 6.0 },
+  { "id": 14, "name": "REIT", "fullName": "Quỹ Đầu Tư Bất Động Sản", "risk": 0.5, "return": 2.5 }
+]

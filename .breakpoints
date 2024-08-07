@@ -1,0 +1,20 @@
+{
+  "files": {
+    "module/commands/lucky.js": [
+      {
+        "id": "7a1b30c2-4c23-4c0d-9822-22b286dd7571",
+        "line": 59,
+        "version": 1,
+        "index": 2404
+      }
+    ],
+    "module/commands/tid.js": [
+      {
+        "id": "f63b0640-6694-40e1-9f31-d0b0885e3cf4",
+        "line": 24,
+        "version": 1,
+        "index": 744
+      }
+    ]
+  }
+}
